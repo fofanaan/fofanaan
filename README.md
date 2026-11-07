@@ -28,17 +28,17 @@ Embedded Systems: Arduino, Sensor Integration, Motor Control
 Software: Microsoft Excel, Word, PowerPoint
 
 Featured Projects
-Arduino Autonomous Vehicle
+Arduino Autonomous Vehicle:
 Developed an Arduino-based autonomous vehicle with sensor integration.
 Programmed C/C++ obstacle-avoidance and motor controls.
 Tested and debugged hardware-software integration.
 
-Mini Wind Turbine
+Mini Wind Turbine:
 Designed turbine components in SolidWorks.
 Conducted FEA and flow simulations to validate performance.
 Built and tested a functional prototype.
 
-Engineering Simulations
+Engineering Simulations:
 Developed Java and Python simulation programs.
 Applied object-oriented programming and debugging techniques.
 Validated system behavior through testing.
