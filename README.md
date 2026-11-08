@@ -9,14 +9,14 @@ I am a Mechanical Engineering student at Michigan State University with hands-on
 
 My interests include:
 
-Embedded Systems
-Vehicle Systems & Controls
-Robotics & Automation
-Product Development
-Mechanical Design
-Engineering Simulation & Analysis
-Manufacturing Systems
-Technical Skills
+Embedded Systems,
+Vehicle Systems & Controls,
+Robotics & Automation,
+Product Development,
+Mechanical Design,
+Engineering Simulation & Analysis,
+Manufacturing Systems,
+Technical Skills,
 Programming: C/C++, Python, Java, JavaScript
 
 CAD & Design: SolidWorks (CSWA), AutoCAD
